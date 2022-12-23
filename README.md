@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhg22" alt="saurabhg22" /></a></p>
 
-- 🌱 I’m currently learning **Rust**
-
 - 💬 Ask me about **Node, Micro-Services**
 
 - 📫 How to reach me **saurabhg22596@gmail.com**
