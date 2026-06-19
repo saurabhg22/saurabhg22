@@ -10,6 +10,12 @@
   <a href="https://github.com/saurabhg22">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20years-0969da?style=flat-square" alt="8+ years of experience" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Platforms%20%26%20Backend-8250df?style=flat-square" alt="Focused on AI platforms and backend engineering" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhg22&label=PROFILE+VIEWS&color=0969da&style=flat-square" alt="Saurabh's profile views" />
+</p>
+
 ## About me
 
 I'm a software engineer with **8+ years of experience** turning complex business processes into secure, scalable software.
@@ -45,7 +51,23 @@ A merged contribution to the popular open-source AI workflow platform, improving
 
 An open-source library that makes complex MongoDB queries and relationships easier for application developers to work with.
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saurabhg22&hide_border=true" alt="Saurabh's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhg22&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20GitHub%20Activity" alt="Saurabh's recent GitHub activity graph" width="100%" />
+</p>
+
+<p align="center"><sub>These cards reflect activity GitHub can expose publicly; much of my professional work lives in private organization repositories.</sub></p>
+
 ## Technical toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,mongodb,postgres,redis,elasticsearch,aws,docker" alt="TypeScript, Node.js, NestJS, Python, MongoDB, PostgreSQL, Redis, Elasticsearch, AWS, and Docker" />
+</p>
 
 - **Core:** TypeScript, JavaScript, Node.js, NestJS, Python
 - **AI and automation:** AI agents, workflow orchestration, human-in-the-loop processes, tool integrations
