@@ -1,22 +1,65 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">Backend Developer with 8+ years of experience across AI, finance, legal technology, and other domains.</h3>
+<h1 align="center">Hi, I'm Saurabh Gupta 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhg22&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhg22" /> </p>
-
-- 💬 Ask me about **Node, Micro-Services**
-
-- 📫 How to reach me **saurabhg22596@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Backend & AI Platform Engineer</strong><br />
+  I build the reliable systems behind products people use.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="mailto:saurabhg22596@gmail.com">Email</a> •
+  <a href="https://github.com/saurabhg22">GitHub</a>
+</p>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a><a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a><a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://materializecss.com/res/materialize.svg" alt="materialize" width="40" height="40"/> </a><a href="https://github.com/mochajs/mocha" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" alt="puppeteer" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a></p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhg22&show_icons=true&locale=en&layout=compact" alt="saurabhg22" /></p>
+I'm a software engineer with **8+ years of experience** turning complex business processes into secure, scalable software.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhg22&show_icons=true&locale=en" alt="saurabhg22" /></p>
+Much of my work happens behind the screen: moving and organizing data, automating workflows, connecting services, and keeping products fast and dependable. Over the last five years, I have worked across **AI automation, legal research, healthcare, commerce, hospitality, and education**.
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=saurabhg22" alt="Saurabh's GitHub streak" /></p>
+I do my best work when a problem is still ambiguous and a product needs a clear technical foundation.
+
+## What I've been building
+
+- **AI agents and workflow automation** — systems that can respond to events, coordinate tasks, involve people for important decisions, run on schedules, and make AI behavior easier to manage and improve.
+- **Data and search platforms** — pipelines that keep operational databases and search systems in sync, making large document collections faster and easier to explore.
+- **Product backends** — the APIs, authentication, reporting, and integrations that power web and mobile products across several industries.
+- **Engineering foundations** — reusable modules, development environments, automated testing, and deployment workflows that help teams ship consistently.
+
+## My recent journey
+
+- **2021–2022:** Built reusable backend foundations, event-driven services, authentication modules, and data/search tooling.
+- **2023–2024:** Applied those foundations to real products in legal research, healthcare, commerce, hospitality, and media processing.
+- **2025–present:** Focused increasingly on AI agents, workflow automation, data ingestion, and platforms that help people supervise and collaborate with AI.
+
+## Selected public work
+
+### [MongoESIndexer](https://github.com/saurabhg22/MongoESIndexer)
+
+A reliable data pipeline that moves information from MongoDB into Elasticsearch. It supports large batches, progress tracking, recovery after interruptions, and near-real-time updates.
+
+### [Flowise contribution](https://github.com/FlowiseAI/Flowise/pull/2360)
+
+A merged contribution to the popular open-source AI workflow platform, improving the reliability of its database initialization and startup process.
+
+### [Mongo Query Resolver](https://github.com/saurabhg22/mongoqueryresolver)
+
+An open-source library that makes complex MongoDB queries and relationships easier for application developers to work with.
+
+## Technical toolkit
+
+- **Core:** TypeScript, JavaScript, Node.js, NestJS, Python
+- **AI and automation:** AI agents, workflow orchestration, human-in-the-loop processes, tool integrations
+- **Data:** MongoDB, PostgreSQL, Elasticsearch, Redis
+- **Platform:** AWS, Docker, CI/CD, cloud infrastructure
+- **Interfaces:** REST, GraphQL, web and mobile integrations
+
+## How I approach engineering
+
+- Start with the real user or business problem, then choose the technology.
+- Design for failures, recovery, security, and long-term maintainability.
+- Turn repeated work into reusable foundations for the whole team.
+- Explain technical decisions in language that everyone can understand.
+
+## Let's connect
+
+If you're building a product that needs a dependable backend, better use of data, or practical AI automation, feel free to email me at **[saurabhg22596@gmail.com](mailto:saurabhg22596@gmail.com)**.
