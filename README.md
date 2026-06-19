@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">Backend Developer with 8+ years of experience across AI, finance, legal technology, and other domains.</h3>
+<h1 align="center">Hi, I'm Saurabh Gupta 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhg22&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhg22" /> </p>
-
-- 💬 Ask me about **Node, Micro-Services**
-
-- 📫 How to reach me **saurabhg22596@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Backend & Agentic AI Platform Engineer</strong><br />
+  I turn complex workflows into dependable products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="mailto:saurabhg22596@gmail.com">Email</a> •
+  <a href="https://github.com/saurabhg22">GitHub</a>
+</p>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a><a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a><a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://materializecss.com/res/materialize.svg" alt="materialize" width="40" height="40"/> </a><a href="https://github.com/mochajs/mocha" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" alt="puppeteer" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20years-0969da?style=flat-square" alt="8+ years of experience" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Backend-8250df?style=flat-square" alt="Focused on agentic AI and backend engineering" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhg22&label=PROFILE+VIEWS&color=0969da&style=flat-square" alt="Saurabh's profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhg22&show_icons=true&locale=en&layout=compact" alt="saurabhg22" /></p>
+## Snapshot
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhg22&show_icons=true&locale=en" alt="saurabhg22" /></p>
+**8+ years** building backend, data/search, and AI platforms across legal research, healthcare, commerce, hospitality, and education. Strongest at taking an ambiguous problem from architecture to reliable production software.
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=saurabhg22" alt="Saurabh's GitHub streak" /></p>
+## Current focus · 2025–present
+
+- **Agent and workflow runtimes:** graph APIs, validation, parallel execution, retries, resume, human approvals, and LLM-powered steps.
+- **Triggers and operations:** schedules, email/external events, run catalogs, usage visibility, and tenant-aware access controls.
+- **AI collaboration:** versioned, shareable, and forkable agents; workspace controls; data ingestion; tool and model integrations.
+
+## Major earlier work · 2018–2024
+
+- **Legal data and search:** document ingestion, PDF processing, advanced/fuzzy search, indexing, and analytics over large legal collections.
+- **Product platforms:** core services for healthcare, commerce, hospitality, and event products—including authentication, reporting, and deployment foundations.
+- **Reusable backend tooling:** database-to-search pipelines, complex query resolution, shared authentication, email, and developer infrastructure.
+
+## Selected public work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [MongoESIndexer](https://github.com/saurabhg22/MongoESIndexer) | Recoverable, near-real-time MongoDB → Elasticsearch data pipelines. |
+| [Flowise contribution](https://github.com/FlowiseAI/Flowise/pull/2360) | Merged reliability fix for a popular open-source AI workflow platform. |
+| [Mongo Query Resolver](https://github.com/saurabhg22/mongoqueryresolver) | Simpler nested relationships and complex queries for MongoDB applications. |
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saurabhg22&hide_border=true" alt="Saurabh's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhg22&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20GitHub%20Activity" alt="Saurabh's recent GitHub activity graph" width="100%" />
+</p>
+
+<p align="center"><sub>Public cards do not include all work from private organization repositories.</sub></p>
+
+## Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,mongodb,postgres,redis,elasticsearch,aws,docker" alt="TypeScript, Node.js, NestJS, Python, MongoDB, PostgreSQL, Redis, Elasticsearch, AWS, and Docker" />
+</p>
+
+<p align="center"><strong>TypeScript · Node.js · NestJS · Python · MongoDB · PostgreSQL · Elasticsearch · Redis · AWS · Docker</strong></p>
